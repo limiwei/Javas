@@ -6,5 +6,9 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Test.main()");
 	}
+	
+	private String getName(){
+		return "Your Name";
+	}
 
 }
